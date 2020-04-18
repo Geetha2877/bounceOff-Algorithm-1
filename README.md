@@ -1,2 +1,2 @@
-# p5.play-bounceoffalgorithm
-Boiler plate for p5.play
+# p5.play-bounceoff-Algorithm-1
+bounceoff-Algorithm-1 for p5.play
